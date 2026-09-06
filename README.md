@@ -17,5 +17,5 @@ Python / FastAPI / Flask / Vue3 / Next.js · YOLO / AASIST / SenseVoice / emotio
 
 ## 其他
 
-- 一作论文在投（ICASSP 2027）：基于聆心的多模态情绪识别研究
+- CCFB一作论文在投（ICASSP 2027）：基于聆心的多模态情绪识别研究
 - 参与福建省中青年科研项目（道路检测识别方向）
