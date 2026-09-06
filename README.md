@@ -20,5 +20,3 @@ Python / FastAPI / Flask / Vue3 / Next.js · YOLO / AASIST / SenseVoice / emotio
 
 - 一作论文在投（ICASSP 2027）：基于聆心的多模态情绪识别研究
 - 参与福建省中青年科研项目（道路检测识别方向）
-
-联系：QQ / 微信 `（填写）`
