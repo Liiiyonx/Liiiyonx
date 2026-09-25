@@ -14,9 +14,11 @@
 
 ## 关于我
 
-- 聚焦 **Agent 工作流、多模态感知与可信 AI**，关注从模型实验到真实系统交付的完整链路。
-- 能独立完成场景拆解、模型选型、后端 API、前端体验与云部署，并用可复现指标和自动化测试验证效果。
-- 已把 AI 应用落到海洋治理、教育、心理支持、无障碍与反诈等场景。
+- 🎓 福州理工学院 · 智能科学与技术，专注 **AI 应用开发与 Agent 工程**。
+- 🚀 已独立做出 4 个可运行的完整系统：[海潮](https://github.com/Liiiyonx/haichao)、[聆心](https://github.com/Liiiyonx/lingxin)、[探海灵眸 SeaSight](https://github.com/Liiiyonx/seahawk)、[BlindGuard](https://github.com/Liiiyonx/BlindGuard)，分别落在海洋治理、心理支持与无障碍辅助场景。
+- 🧩 习惯一个人走完全链路：场景拆解 → 模型选型 → 后端 API → 前端体验 → 云部署，用自动化测试与可复现指标验收（聆心 80 项自动化测试；海潮 3 Agent / 24 节点 / 11 层可信链路）。
+- 🛠 只用跑通的东西说话：指标能复现、链路能观测、系统能部署，做不到就先不上线。
+- 💬 关于 Agent 工作流、RAG 评测或多模态落地，欢迎开 issue 或直接找我聊。
 
 ## 代表项目
 
@@ -26,7 +28,6 @@
 | **[聆心](https://github.com/Liiiyonx/lingxin)** | 高校辅导员 AI 减负与心理预警：LangGraph 多智能体 + 数字人 + RAG | 80 项自动化测试；Vue 3 + Flask 全栈；已云部署上线 | [线上运行](https://8.153.151.13) |
 | **[探海灵眸 SeaSight](https://github.com/Liiiyonx/seahawk)** | 海漂垃圾“感知—决策—执行”智能治理：边缘视觉 + 就近派单 + 设备闭环 | FastAPI + Vue 3 + PostGIS + MQTT；从识别到处置的完整链路 | [查看仓库](https://github.com/Liiiyonx/seahawk) |
 | **[BlindGuard](https://github.com/Liiiyonx/BlindGuard)** | 视障辅助导盲：实时目标检测、五级风险评估与优先级语音播报 | YOLOv8/v10；2026 福建省大创项目负责人 | [查看仓库](https://github.com/Liiiyonx/BlindGuard) |
-| **[溯光 TracingLight](https://suguang.coze.site/)** | AI 学情分析教育平台：知识图谱与个性化推荐 | 2026.08 海峡两岸 AI Agent 挑战赛大学组一等奖 | [在线体验](https://suguang.coze.site/) |
 
 > 另在推进 **谛听 VeriCall**：AASIST 声学检测（dev EER 0.745%）、声纹与话术三通道融合的 AI 拟声电话诈骗拦截系统；仓库暂未公开。
 
