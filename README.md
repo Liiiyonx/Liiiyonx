@@ -17,7 +17,7 @@
 福州理工学院智能科学与技术专业，专注 AI 应用开发与 Agent 工程，方向覆盖多智能体协作、检索增强生成（RAG）与多模态感知。
 
 - **端到端交付**：独立完成场景拆解、模型选型、服务端 API、前端交互与云端部署的完整链路。
-- **代表成果**：已落地四个可运行系统 —— [海潮](https://github.com/Liiiyonx/haichao)、[聆心](https://github.com/Liiiyonx/lingxin)、[探海灵眸 SeaSight](https://github.com/Liiiyonx/seahawk)、[BlindGuard](https://github.com/Liiiyonx/BlindGuard)，应用于海洋治理、心理支持与无障碍辅助场景。
+- **代表成果**：已落地五个可运行系统 —— [海潮](https://github.com/Liiiyonx/haichao)、[聆心](https://github.com/Liiiyonx/lingxin)、[谛听 VeriCall](https://github.com/Liiiyonx/vericall)、[探海灵眸 SeaSight](https://github.com/Liiiyonx/seahawk)、[BlindGuard](https://github.com/Liiiyonx/BlindGuard)，应用于海洋治理、心理支持、适老反诈与无障碍辅助场景。
 - **质量基线**：以自动化测试与可复现指标作为验收标准；聆心 80 项自动化测试，海潮 3 Agent / 24 节点 / 11 层可信链路；未经验证的能力不对外发布。
 - **技术交流**：Agent 工作流、RAG 评测与多模态落地相关问题，欢迎通过 issue 交流。
 
@@ -31,7 +31,7 @@
 | **[探海灵眸 SeaSight](https://github.com/Liiiyonx/seahawk)** | 海漂垃圾“感知—决策—执行”智能治理：边缘视觉 + 就近派单 + 设备闭环 | FastAPI + Vue 3 + PostGIS + MQTT；从识别到处置的完整链路 | [查看仓库](https://github.com/Liiiyonx/seahawk) |
 | **[BlindGuard](https://github.com/Liiiyonx/BlindGuard)** | 视障辅助导盲：实时目标检测、五级风险评估与优先级语音播报 | YOLOv8/v10；2026 福建省大创项目负责人 | [查看仓库](https://github.com/Liiiyonx/BlindGuard) |
 
-> 另见 **[谛听 VeriCall](https://github.com/Liiiyonx/vericall)**：面向老年群体的 AI 拟声电话诈骗拦截系统 —— 声学伪造检测（AASIST dev EER 0.745%）+ 家庭声纹 + 话术风险三通道融合决策，源代码已开源。
+> 上述项目的源码均以「只公开源代码」的方式维护：数据、模型权重、评测产出与部署配置不入库。
 
 ## 技术与能力
 
