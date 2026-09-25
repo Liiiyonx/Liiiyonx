@@ -14,11 +14,12 @@
 
 ## 关于我
 
-- 🎓 福州理工学院 · 智能科学与技术，专注 **AI 应用开发与 Agent 工程**。
-- 🚀 已独立做出 4 个可运行的完整系统：[海潮](https://github.com/Liiiyonx/haichao)、[聆心](https://github.com/Liiiyonx/lingxin)、[探海灵眸 SeaSight](https://github.com/Liiiyonx/seahawk)、[BlindGuard](https://github.com/Liiiyonx/BlindGuard)，分别落在海洋治理、心理支持与无障碍辅助场景。
-- 🧩 习惯一个人走完全链路：场景拆解 → 模型选型 → 后端 API → 前端体验 → 云部署，用自动化测试与可复现指标验收（聆心 80 项自动化测试；海潮 3 Agent / 24 节点 / 11 层可信链路）。
-- 🛠 只用跑通的东西说话：指标能复现、链路能观测、系统能部署，做不到就先不上线。
-- 💬 关于 Agent 工作流、RAG 评测或多模态落地，欢迎开 issue 或直接找我聊。
+福州理工学院智能科学与技术专业，专注 AI 应用开发与 Agent 工程，方向覆盖多智能体协作、检索增强生成（RAG）与多模态感知。
+
+- **端到端交付**：独立完成场景拆解、模型选型、服务端 API、前端交互与云端部署的完整链路。
+- **代表成果**：已落地四个可运行系统 —— [海潮](https://github.com/Liiiyonx/haichao)、[聆心](https://github.com/Liiiyonx/lingxin)、[探海灵眸 SeaSight](https://github.com/Liiiyonx/seahawk)、[BlindGuard](https://github.com/Liiiyonx/BlindGuard)，应用于海洋治理、心理支持与无障碍辅助场景。
+- **质量基线**：以自动化测试与可复现指标作为验收标准；聆心 80 项自动化测试，海潮 3 Agent / 24 节点 / 11 层可信链路；未经验证的能力不对外发布。
+- **技术交流**：Agent 工作流、RAG 评测与多模态落地相关问题，欢迎通过 issue 交流。
 
 ## 代表项目
 
