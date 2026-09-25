@@ -30,7 +30,7 @@
 | **[探海灵眸 SeaSight](https://github.com/Liiiyonx/seahawk)** | 海漂垃圾“感知—决策—执行”智能治理：边缘视觉 + 就近派单 + 设备闭环 | FastAPI + Vue 3 + PostGIS + MQTT；从识别到处置的完整链路 | [查看仓库](https://github.com/Liiiyonx/seahawk) |
 | **[BlindGuard](https://github.com/Liiiyonx/BlindGuard)** | 视障辅助导盲：实时目标检测、五级风险评估与优先级语音播报 | YOLOv8/v10；2026 福建省大创项目负责人 | [查看仓库](https://github.com/Liiiyonx/BlindGuard) |
 
-> 另在推进 **谛听 VeriCall**：AASIST 声学检测（dev EER 0.745%）、声纹与话术三通道融合的 AI 拟声电话诈骗拦截系统；仓库暂未公开。
+> 另见 **[谛听 VeriCall](https://github.com/Liiiyonx/vericall)**：面向老年群体的 AI 拟声电话诈骗拦截系统 —— 声学伪造检测（AASIST dev EER 0.745%）+ 家庭声纹 + 话术风险三通道融合决策，源代码已开源。
 
 ## 技术与能力
 
