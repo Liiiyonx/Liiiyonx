@@ -27,6 +27,7 @@
 |---|---|---|---|
 | **[海潮](https://github.com/Liiiyonx/haichao)** | 海洋产业可信内容智能体：内容生成、证据核验与风险提示 | 3 Agent / 24 节点 / 11 层可信链路；自研 Web 体验端 | [在线体验](https://haichao-web-demo.pages.dev/) |
 | **[聆心](https://github.com/Liiiyonx/lingxin)** | 高校辅导员 AI 减负与心理预警：LangGraph 多智能体 + 数字人 + RAG | 80 项自动化测试；Vue 3 + Flask 全栈；已云部署上线 | [线上运行](https://8.153.151.13) |
+| **[谛听 VeriCall](https://github.com/Liiiyonx/vericall)** | 老年群体 AI 拟声电话诈骗拦截：声学伪造 + 家庭声纹 + 话术风险三通道融合 | AASIST dev EER 0.745%；流式实时判定（3s 滑窗 / 1s 步进）；176 项测试 | [查看源码](https://github.com/Liiiyonx/vericall) |
 | **[探海灵眸 SeaSight](https://github.com/Liiiyonx/seahawk)** | 海漂垃圾“感知—决策—执行”智能治理：边缘视觉 + 就近派单 + 设备闭环 | FastAPI + Vue 3 + PostGIS + MQTT；从识别到处置的完整链路 | [查看仓库](https://github.com/Liiiyonx/seahawk) |
 | **[BlindGuard](https://github.com/Liiiyonx/BlindGuard)** | 视障辅助导盲：实时目标检测、五级风险评估与优先级语音播报 | YOLOv8/v10；2026 福建省大创项目负责人 | [查看仓库](https://github.com/Liiiyonx/BlindGuard) |
 
